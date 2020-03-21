@@ -1,6 +1,6 @@
 =homebrew-linux=
 
-Homebrew formulae to install custom programs on Linux
+Homebrew formulae to install custom programs on Linux.
 
 ==Note==
 
