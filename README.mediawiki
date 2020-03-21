@@ -9,3 +9,11 @@ Many, but not all, formulae requires a later version of Swift than what Homebrew
 To get around this, follow instructions on the [https://swift.org/download/#using-downloads official Swift website] to install the proper toolchain.
 
 After that, be sure to pass <strong>--env=std</strong> with the usuall installation command.
+
+===Installation===
+
+To use this repository, simply run the following command:
+
+<pre>
+brew tap bryceac/linux
+</pre>
