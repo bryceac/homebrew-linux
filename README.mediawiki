@@ -4,7 +4,7 @@ Homebrew formulae to install custom programs on Linux.
 
 ==Note==
 
-Many, but not all formulae requires a later version of Swift than what Homebrew offers.
+Many, but not all, formulae requires a later version of Swift than what Homebrew offers.
 
 To get around this, follow instructions on the [https://swift.org/download/#using-downloads official Swift website] to install the proper toolchain.
 
