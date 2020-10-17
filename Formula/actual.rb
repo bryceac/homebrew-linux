@@ -1,7 +1,7 @@
 # Documentation: https://docs.brew.sh/Formula-Cookbook
 #                https://rubydoc.brew.sh/Formula
 # PLEASE REMOVE ALL GENERATED COMMENTS BEFORE SUBMITTING YOUR PULL REQUEST!
-class ActualstorageSwift < Formula
+class Actual < Formula
   desc "CLI version of Actual Storage Android app written in Swift."
   homepage ""
   url "https://github.com/bryceac/ActualStorage-Swift/archive/actual-0.2.tar.gz"
