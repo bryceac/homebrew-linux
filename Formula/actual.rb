@@ -8,7 +8,7 @@ class Actual < Formula
   sha256 "6409b20d46b015ae68dbf53b7fe2e279f7747c7a1c5cc889b7f44825b2777e51"
   license "MIT"
 
-  depends_on :rsync
+  depends_on "rsync"
 
   def install
     system "make", "install", "prefix=#{prefix}"
